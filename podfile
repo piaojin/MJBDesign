@@ -1,0 +1,13 @@
+platform :ios, '7.0'
+target 'MJBDesign' do
+pod 'SDWebImage', '~>3.7'
+pod 'MJRefresh'
+pod 'AFNetworking', '~> 2.0'
+pod 'SVProgressHUD'
+pod 'Masonry'
+pod 'MJExtension'
+pod 'FLAnimatedImage'
+pod ‘UMengUShare/Social/WeChat'
+pod 'MWPhotoBrowser'
+pod 'UMengAnalytics-NO-IDFA'
+end 
